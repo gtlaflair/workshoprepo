@@ -5,4 +5,4 @@ date: "October 30, 2017"
 output: html_document
 ---
 
-This is a great report.
+This is a great report. It's super great.
